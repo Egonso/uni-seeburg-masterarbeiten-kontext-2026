@@ -30,4 +30,3 @@ Nützlich für die Betreuung:
 - Hypothesen brauchen sichtbare Herkunft aus Theorie und Forschungsstand.
 - Ergebnisdarstellung und Handlungsempfehlungen dürfen nicht nebeneinanderstehen; Empfehlungen müssen erkennbar aus Befunden folgen.
 - Eine sehr gute Arbeit zeigt auch, wo die eigene Messung Grenzen hat.
-

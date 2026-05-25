@@ -30,4 +30,3 @@ Nützlich für die Betreuung:
 - Stakeholder sollten nicht dekorativ gelistet, sondern mit Zielen, Risiken und Abhängigkeiten ausgewertet werden.
 - Bei Zukunftsformaten muss das Ergebnis als Tragfähigkeitsurteil formuliert werden: unter welchen Bedingungen funktioniert das Modell, unter welchen nicht?
 - Auch ohne große eigene Datenerhebung kann eine Masterarbeit stark sein, wenn Quellen, Systematik und Urteil klar genug sind.
-

@@ -33,4 +33,3 @@ Jede Person sollte wöchentlich denselben kurzen Status liefern:
 2. Was ist bis zum nächsten Termin konkret geplant?
 3. Welche Entscheidung oder Freigabe wird gebraucht?
 4. Gibt es Risiken bei Daten, Methode, Umfang, Zitation oder Abgabe?
-

@@ -30,4 +30,3 @@ Nützlich für die Betreuung:
 - Theorie darf nicht Lexikon bleiben; sie muss Kategorien für die empirische Auswertung liefern.
 - Bei Expert:inneninterviews braucht es eine erkennbare Fall-/Personenauswahl und eine saubere Auswertungslogik.
 - Das Fazit sollte die Forschungsfrage direkt beantworten und die praktische Tragweite begrenzen.
-

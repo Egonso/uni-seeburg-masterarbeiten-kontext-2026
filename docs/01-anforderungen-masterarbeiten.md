@@ -80,4 +80,3 @@ Technische Eckpunkte:
 - Eidesstattliche Erklärung enthalten und unterschrieben.
 - Abgabe spätestens 2026-09-10.
 - Finale Abgabeform mit Prüfungsamt geklärt.
-

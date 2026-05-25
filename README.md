@@ -11,6 +11,7 @@ Es ist kein offizielles Dokument der Universität. Verbindlich bleiben immer die
 - [Anforderungen und Formalia](docs/01-anforderungen-masterarbeiten.md)
 - [Terminplan 2026](docs/02-terminplan-2026.md)
 - [Wissenschaftliches Arbeiten und Schreiben mit KI](docs/03-wissenschaftliches-arbeiten-mit-ki.md)
+- [Outline-Gate und Arbeitsarchitektur](docs/04-outline-gate.md)
 - [Betreuungsprozess und Arbeitsmodus](docs/05-betreuungsprozess.md)
 - [Quellen und Referenzen](docs/06-quellen-und-referenzen.md)
 

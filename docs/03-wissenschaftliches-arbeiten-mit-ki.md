@@ -414,4 +414,3 @@ Vor Abgabe sollte jede Arbeit diese Fragen bestehen:
 - Sind Limitationen ehrlich benannt?
 - Sind Formatvorlage, Zitation, Verzeichnisse und eidesstattliche Erklärung vollständig?
 - Ist die KI-Dokumentation intern sauber nachvollziehbar?
-
