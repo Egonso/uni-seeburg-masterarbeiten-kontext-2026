@@ -23,6 +23,8 @@ Aus Datenschutz- und Veröffentlichungsgründen sind diese Unterlagen nicht im R
 - Formatvorlage MBA Thesis.
 - Gruppenmail zu MBA-Thesis-Terminen, Deadlines und Vorlagen.
 - Kalendereintrag Master Thesis Workshop.
+- FH-/Seeburg-Handout `Wissenschaftliches Schreiben: 12 Schritte`.
+- Seeburg-Workbook zum Modul `KI und Text: Von der Recherche zur Veröffentlichung`.
 
 ## Öffentlich gefundene 1er-Referenzarbeiten
 
@@ -37,4 +39,3 @@ Weitere Details:
 - [Manuel Weber: Krypto-Token](referenzarbeiten-1er/2021-weber-krypto-token.md)
 - [Jan-Philipp Schiele: Imagefaktor](referenzarbeiten-1er/2015-schiele-imagefaktor.md)
 - [Robert Hesse: Fußball EM 2020](referenzarbeiten-1er/2015-hesse-fussball-em-2020.md)
-
